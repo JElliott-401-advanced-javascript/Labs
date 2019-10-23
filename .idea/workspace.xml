@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3471e073-d063-4bd8-81f7-8cee14e759d6" name="Default Changelist" comment="" />
+    <list default="true" id="3471e073-d063-4bd8-81f7-8cee14e759d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Lab-07-Express/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-07-Express/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,7 +55,9 @@
         <entry file="file://$PROJECT_DIR$/Lab-07-Express/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor>
+                <caret column="19" selection-start-column="19" selection-end-column="19" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -91,6 +95,7 @@
         <option value="$PROJECT_DIR$/Lab-07-Express/__tests__/server.test.js" />
         <option value="$PROJECT_DIR$/Lab-07-Express/__tests__/supertester.js" />
         <option value="$PROJECT_DIR$/Lab-07-Express/package.json" />
+        <option value="$PROJECT_DIR$/Lab-07-Express/README.md" />
       </list>
     </option>
   </component>
@@ -179,12 +184,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571520861520</updated>
-      <workItem from="1571520862848" duration="4427000" />
+      <workItem from="1571520862848" duration="4822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4427000" />
+    <option name="totallyTimeSpent" value="4822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="185" y="23" width="919" height="689" extended-state="0" />
@@ -331,7 +336,9 @@
     <entry file="file://$PROJECT_DIR$/Lab-07-Express/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret column="19" selection-start-column="19" selection-end-column="19" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
