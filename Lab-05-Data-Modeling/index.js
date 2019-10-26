@@ -38,7 +38,7 @@ makePerson({
 
 /*
 //.  0.    1.      2.     3
-// node index.js.  ??    ??
+// node people-schema.js.  ??    ??
 let people = new People(process.argv.slice(2)[0]);
 let teams = new Teams(process.argv.slice(3)[0]);
 async function loadData() {
