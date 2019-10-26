@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4be204b-c6a3-490c-af66-0996bc2ea318" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-05-Data-Modeling/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-05-Data-Modeling/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-08-ExpressRouting-and-ConnectedAPI/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-08-ExpressRouting-and-ConnectedAPI/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-08-ExpressRouting-and-ConnectedAPI/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-08-ExpressRouting-and-ConnectedAPI/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -96,6 +93,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -126,15 +124,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572127810627</updated>
-      <workItem from="1572127811932" duration="661000" />
+      <workItem from="1572127811932" duration="736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="661000" />
+    <option name="totallyTimeSpent" value="736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="185" y="23" width="919" height="689" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
