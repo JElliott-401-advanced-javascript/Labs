@@ -13,7 +13,7 @@ const errorHandler = require(`${cwd}/lib/middleware/500.js`);
 const notFound = require(`${cwd}/lib/middleware/404.js`);
 const router = require(`${cwd}/lib/router.js`);
 
-// TODO: Comment
+/** Use Express to interpret all our data */
 app.use(express.json());
 
 // TODO: Comment
@@ -22,7 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 // TODO: Comment
 app.use(router);
 
-// TODO: Comment
+/** Identifying Middleware Error functions */
 app.use(notFound);
 app.use(errorHandler);
 
