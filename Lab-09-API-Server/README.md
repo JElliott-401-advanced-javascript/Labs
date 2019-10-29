@@ -7,7 +7,7 @@ LAB 09 - API Server
 
 
 ### Links and Resources
-* [repo](https://github.com/JElliott-401-advanced-javascript/Labs/tree/master/Lab-09-API-server)
+* [repo](https://github.com/JElliott-401-advanced-javascript/Labs/tree/master/Lab-09-API-Server)
 * [heroku](   )
 * [travis]() 
 * [docs](    )
