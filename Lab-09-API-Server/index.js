@@ -2,6 +2,6 @@
 
 require('dotenv').config();
 
-// TODO: Comment
+/** Requirement of PORT from .env */
 require('./lib/server.js').start(process.env.PORT);
 
